@@ -1,8 +1,7 @@
 ### Hello, guys! 👋
 
+Development Student | Front-end
 
-- 🔭 Hoje trabalho com logística, pois ainda não consegui uma oportunidade na área.
-- 🌱 Estudando Javascript
 
 ##
 
