@@ -2,6 +2,7 @@
 
 Development Student | Front-end
 
+<div style="display: inline"><img src="Avatar-Maker.svg"></div>
 
 ##
 
