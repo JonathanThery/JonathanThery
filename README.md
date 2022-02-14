@@ -1,6 +1,12 @@
 ### Hello, guys! 👋
 
+
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="Avatar-Maker.svg"/>
+
+
 Development Student | Front-end
+
+
 
 <div>
   <a href="https://github.com/JonathanThery">
